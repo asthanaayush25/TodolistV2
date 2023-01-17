@@ -1,4 +1,4 @@
-// jshint esversion:6
+const x=1
 const express=require('express');
 const bodyParser=require('body-parser');
 const mongoose=require('mongoose');
